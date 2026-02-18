@@ -1,0 +1,1 @@
+Hello everyone,this is my new project in future interns as a prompt enginner. i've used Chatgpt to create a website about a local bussiness (saloon).if you use my prompt and provide the nessasory details youll get a website of your own,just change the name and photos and edit to your own field
