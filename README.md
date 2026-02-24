@@ -1,4 +1,5 @@
 Hello everyone,this is my new project in future interns as a prompt enginner. i've used Chatgpt to create a website about a local bussiness (saloon).if you use my prompt and provide the nessasory details youll get a website of your own,just change the name and photos and edit to your own field
+
 PROMPT:
 You are an expert web designer and developer, I would like to recreate the website design that I have provided in the attached image using HTML and CSS and needs to be responsive as well. The website belongs to my company, Stylish park, and it serves as a hair cutting and facial center which provides many requests like cutting, shaving and dying hair and this is my logo for the website https://ibb.co/rGxG4zLk. The webpage is divided into a total of 4 sections, and I’ll provide you with each section, You should not use the same content. Change the content that aligns to my brand. Provide me the code and guide on where to integrate it.
 
